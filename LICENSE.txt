@@ -1,0 +1,46 @@
+# FPGenda License
+*(Educational Open Source License — inspired by MIT)*
+
+Copyright (c) 2025 [Your Name or Organization]
+
+---
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to use,
+copy, modify, merge, publish, distribute, and/or sell copies of the Software,
+subject to the following conditions:
+
+1. **Attribution** — The above copyright notice and this permission notice
+   shall be included in all copies or substantial portions of the Software.
+
+2. **Openness** — Any modified or derivative version of the Software that is
+   redistributed must remain open and accessible for learning, study, and
+   further improvement by others.
+
+3. **Purpose** — This software is provided primarily for educational and
+   productivity purposes. It may be freely used in personal, academic,
+   or professional contexts.
+
+4. **No Warranty** —  
+   THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+   ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+---
+
+### About this License
+
+This license preserves the freedom to **learn from, modify, and share**
+the software — the essential spirit of open source — while encouraging
+transparency and collaboration.
+
+If you improve or extend FPGenda, please consider contributing your changes
+back to the community via pull requests or documentation updates.
+
+---
+
+**FPGenda — the code of your productivity.**
