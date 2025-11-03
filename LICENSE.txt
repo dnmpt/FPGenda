@@ -1,7 +1,7 @@
 # FPGenda License
 *(Educational Open Source License — inspired by MIT)*
 
-Copyright (c) 2025 [Your Name or Organization]
+Copyright (c) 2025 dnmpt
 
 ---
 
@@ -44,3 +44,4 @@ back to the community via pull requests or documentation updates.
 ---
 
 **FPGenda — the code of your productivity.**
+
