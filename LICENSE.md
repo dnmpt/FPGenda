@@ -1,7 +1,7 @@
 # FPGenda License
 *(Educational Open Source License — inspired by MIT)*
 
-Copyright (c) 2025 Duarte (dnmpt)
+Copyright (c) 2025 Duarte Mendes
 
 ---
 
@@ -44,4 +44,5 @@ back to the community via pull requests or documentation updates.
 ---
 
 **FPGenda — the code of your productivity.**
+
 
